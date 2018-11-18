@@ -127,8 +127,15 @@ footer{
 }
 
 .vids{
-  height:190px;
+  margin: 0 auto;
+  display: block;
+    height:190px;
+  padding: 20px;
 }
 
+#main
+{
+  min-height:20px;
 
+  text-align: center;
 }
