@@ -127,12 +127,9 @@ footer{
 }
 .vids{
   margin: 20px;
-  width:100%;
-  height: 50%;
-  
-}
+  position:relative;
+  width:70%;
+  top: 0;
+  height: auto;
 
-.container1{
-width:90%;
-margin:auto;
 }
