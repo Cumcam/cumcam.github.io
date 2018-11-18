@@ -106,3 +106,22 @@ header a:hover{
   height: 25px;
   width: 250px;
 }
+
+#boxes{
+  margin-top: 40px;
+}
+
+#boxes .box {
+  float: left;
+  width: 40%;
+  padding-right: 10px;
+  text-align: center;
+}
+
+footer{
+  padding:20px;
+  margin-top: 20px;
+  color: white;
+  background-color: orange;
+  text-align: center;
+}
