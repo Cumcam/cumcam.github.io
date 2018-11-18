@@ -125,3 +125,8 @@ footer{
   background-color: orange;
   text-align: center;
 }
+.vids{
+  margin: 40px;
+  border: 2;
+  height:500px;
+}
